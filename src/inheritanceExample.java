@@ -54,7 +54,7 @@ class  Amropali extends Mango implements Jelly  {
 
 
 
-public class interfaceExample2 {
+public class inheritanceExample {
 
     public static void main(String[] args) {
         // TODO Auto-generated method stub
